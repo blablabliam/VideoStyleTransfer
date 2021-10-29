@@ -58,7 +58,7 @@
 
 I always wanted to make my own unique BadApple!! version, but could never come up with an interesting way to do it that hadn't already been done. I decided to try and crank it out using a deep dream neural network, but it just took FOREVER on my hardware. My first time estimate to run the video was more than 2 years!!! Over time, I was able to slim down and speed up the program, scrapping a full neural net approach for the rapid speed of a pre-built model and style transfer! This changed *everything*, bringing the time estimate from 2 years to just 2 hours. :satisfied:
 
-![Dancing](image/dancing.gif)
+![Dancing](image/dancing.gif / GIF)
 
 
 ### Built With
